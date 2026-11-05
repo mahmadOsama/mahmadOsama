@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFB800&center=true&vCenter=true&width=900&height=60&lines=Junior+Full+Stack+Developer;Building+web+apps+and+IoT+prototypes;CS+Graduate+%28Mu%27tah+University%29" alt="Typing animation" />
 
-<p>I build web applications and IoT prototypes, with a focus on clean interfaces and reliable backend logic.</p>
+<p>I build full-stack web applications with clean interfaces and reliable backend logic.</p>
 
 <a href="https://khairatjibalaj.com"><img src="https://img.shields.io/badge/Portfolio-Live_Site-FFB800?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 <a href="https://github.com/mahmadOsama"><img src="https://img.shields.io/badge/GitHub-mahmadOsama-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
