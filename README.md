@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mohammad Osama Ibrahim 👋
 
-<!--
-**mahmadOsama/mahmadOsama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Full Stack Developer** | Computer Science graduate (Mu'tah University, 2026)
 
-Here are some ideas to get you started:
+I build web applications and IoT prototypes, with a focus on clean interfaces and reliable backend logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech I work with
+
+**Frontend:** HTML, CSS, JavaScript, React, Next.js, TypeScript
+**Backend & Data:** Node.js, PHP, MySQL, PostgreSQL, Supabase, Firebase
+**Languages:** C++, Python, Java, C# (learning .NET)
+**IoT:** ESP32, Arduino IDE, sensor integration, ThingsBoard
+**Tools:** Git, GitHub, Linux, Docker (basic), Cloudflare Workers
+
