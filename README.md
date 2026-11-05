@@ -2,18 +2,18 @@
 
 <h1>Mohammad Osama Ibrahim</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFB800&center=true&vCenter=true&width=900&height=60&lines=Junior+Full+Stack+Developer;Building+web+apps+and+IoT+prototypes;CS+Graduate+%28Mu%27tah+University%29" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;pause=1000&amp;color=FFB800&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=60&amp;lines=Junior+Full+Stack+Developer;Building+web+apps+and+IoT+prototypes;CS+Graduate+%28Mu%27tah+University%29" alt="Junior Full Stack Developer · Building web apps and IoT prototypes · CS Graduate, Mu’tah University" />
 
 <p>I build full-stack web applications with clean interfaces and reliable backend logic.</p>
 
-<a href="https://khairatjibalaj.com"><img src="https://img.shields.io/badge/Portfolio-Live_Site-FFB800?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
-<a href="https://github.com/mahmadOsama"><img src="https://img.shields.io/badge/GitHub-mahmadOsama-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://mahmadosama.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-FFB800?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=black" alt="Visit my portfolio" /></a>
+<a href="https://github.com/mahmadOsama"><img src="https://img.shields.io/badge/GitHub-mahmadOsama-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub profile" /></a>
 
 </div>
 
 ---
 
-<h2><img src="https://img.shields.io/badge/-Tech%20Stack-1572B6?style=flat-square&logo=stackshare&logoColor=white" /></h2>
+## Tech Stack
 
 **Frontend**
 
@@ -35,7 +35,7 @@
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -55,16 +55,17 @@
 
 ---
 
-<h2>Featured Projects</h2>
+## Featured Projects
 
-- **[Khairat Jibal Ajloun & Jerash](https://khairatjibalaj.com)**: a live Arabic RTL e-commerce storefront built with Next.js, TypeScript, and Supabase.
-- **[BreathSafe](https://github.com/mahmadOsama/Breath-Safe)**: a gas-leak monitoring web prototype (student capstone).
-- **[Li-Fi Photon Lab](https://github.com/mahmadOsama/lifi)**: an interactive Li-Fi simulator (university course project).
-- **[Python Datathon, WiDS 2023](https://github.com/mahmadOsama/python-assignments/tree/main/WiDS_2023_Datathon%20part2)**: an XGBoost regression model.
+- **[Khairat Jibal Ajloun & Jerash](https://khairatjibalaj.com)** — A live Arabic RTL e-commerce storefront built with Next.js, TypeScript, and Supabase.
+- **[BreathSafe](https://github.com/mahmadOsama/Breath-Safe)** — A gas-leak monitoring web prototype built as a student capstone.
+- **[Li-Fi Photon Lab](https://github.com/mahmadOsama/lifi)** — An interactive Li-Fi simulator built for a university course.
+- **[WiDS 2023 Datathon, Part 2](https://github.com/mahmadOsama/python-assignments/tree/main/WiDS_2023_Datathon%20part2)** — An XGBoost regression model for temperature prediction.
 
 ---
 
-<h2>Contact</h2>
+## Contact
 
 Open to **Junior Full Stack** and **Frontend Developer** opportunities.
+
 Full contact details are available in my CV.
